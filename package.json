@@ -1,0 +1,33 @@
+{
+  "name": "design-of-a-flat-glass-inspection-device-with-semantic-segmentation-based-defect-detection",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Carzown/Design-of-a-Flat-Glass-Inspection-Device-with-Semantic-Segmentation-Based-Defect-Detection.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Carzown/Design-of-a-Flat-Glass-Inspection-Device-with-Semantic-Segmentation-Based-Defect-Detection/issues"
+  },
+  "homepage": "https://github.com/Carzown/Design-of-a-Flat-Glass-Inspection-Device-with-Semantic-Segmentation-Based-Defect-Detection#readme",
+  "dependencies": {
+    "@mui/icons-material": "^7.3.4",
+    "@mui/material": "^7.3.4",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "react-router-dom": "^7.9.3"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.0",
+    "@types/react-dom": "^19.2.0",
+    "@types/react-router-dom": "^5.3.3"
+  }
+}
